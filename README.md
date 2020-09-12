@@ -25,5 +25,7 @@ pip3 show pandas sklearn
 ```
     
     
+    
+    
 For more details regarding the model visit the following link:
 https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Fake-News-Detection-Model-using-Python.php
