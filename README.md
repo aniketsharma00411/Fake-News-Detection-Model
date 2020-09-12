@@ -14,7 +14,7 @@ To install necessary libraries needed for this project:
 
   2. Run the following command
 
-    ```bash
+    ```shell
     pip3 install pandas sklearn
     ```
 
@@ -22,7 +22,7 @@ To install necessary libraries needed for this project:
 
   4. To verify whether the installation is correct and/or to view information about the installation run the following command
 
-    ```bash
+    ```shell
     pip3 show pandas sklearn
     ```
     
